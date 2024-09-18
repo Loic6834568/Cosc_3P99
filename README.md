@@ -9,5 +9,5 @@ This Notebook 1 will go throught 4 different datasets showing the difference in 
 
 
 ## Notebook 2
-This Notebook will focus on the MovieLens dataset and with the purpose of creating a recommender system with pytorch using Graph Convelutional Networks (GCNs), attached will be a video explain the idea behind the project.
+This Notebook will focus on the MovieLens dataset and with the purpose of creating a recommender system with pytorch using Graph Convelutional Networks (GCNs), attached will be a video explain the idea behind the project: https://youtu.be/bLHNjq_Sc28 
 
